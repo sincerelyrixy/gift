@@ -1,7 +1,11 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "hash": "tesstingtest",
   "commits": [
+    {
+      "message": "update 3",
+      "when": "2025-12-28T14:22:38.000Z"
+    },
     {
       "message": "update 2",
       "when": "2025-12-28T14:22:38.000Z"
